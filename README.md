@@ -68,9 +68,10 @@ Go to the end of the **"Appearance"** section and find the "developer Mode" opti
 ![Step 3](https://i.imgur.com/EX6q0yL.png)
 
 # Curiosities
-In this section I present some curiosities that karu has about other 7u7r bots. 
-> Karu has sensual emojis when you look for the profile picture of some guy.
+In this section I will introduce you some other curiosity and different things of Karu, basically is to show you the beauties both visible and unknown ester dear and very handsome bot.
 
-You may have noticed that when you use the command ** // avatar ** there are two succulent emotes between the user's name:
+> Karu adds sensual animated emojis when you want to see the avatar of a user.
+
+One of the commands of Karu maybe already many know is when we want to see the avatar both our and another friend come out animated emojis!, and not only that, but also random.
 
 <img src="https://i.imgur.com/rO1RxJb.gif" width="512"/>
