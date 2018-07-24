@@ -7,18 +7,18 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ### [0.4.2] - 17-07-2018
-`+` Add command: **roll**
+`+` New command: **roll**
 
-`!` Error fixed in the command: **userinfo**
+`!` Errors corrected in the command: **userinfo** (Date account created wrong)
 
-`+` New page in command: **vote**
+`+` New Page added in: **vote**
 
 `+` When you mention karu, it will tell you the current server prefix.
 
 ### [0.4.1] - 14-07-2018
-`!` Fix commands: **gif** | **servers**
+`!` Commands arranged: **gif** | **servers**
 
-`+` Add command: **timer**
+`+` New command: **timer**
 
 `+` More gifs in command **kill**
 
