@@ -67,6 +67,10 @@ Go to the end of the **"Appearance"** section and find the "developer Mode" opti
 
 ![Step 3](https://i.imgur.com/EX6q0yL.png)
 
+With this you can see something like this:
+
+![Final](https://i.imgur.com/Xw5hmxt.png)
+
 # Curiosities
 In this section I will introduce you some other curiosity and different things of Karu, basically is to show you the beauties both visible and unknown ester dear and very handsome bot.
 
@@ -74,4 +78,4 @@ In this section I will introduce you some other curiosity and different things o
 
 One of the commands of Karu maybe already many know is when we want to see the avatar both our and another friend come out animated emojis!, and not only that, but also random.
 
-<img src="https://i.imgur.com/rO1RxJb.gif" width="512"/>
+<img src="https://i.imgur.com/SZjYu7A.gif" width="960"/>
