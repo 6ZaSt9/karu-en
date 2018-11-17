@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
-url: https://crownsquad.github.io/karu-en/CHANGELOG.html
+title: "My aweosome page"
