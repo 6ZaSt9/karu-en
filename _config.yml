@@ -3,4 +3,5 @@ plugins:
   - jekyll-feed
 feed:
   collections:
-    - changes
+    changes:
+      path: "/changes.xml"
