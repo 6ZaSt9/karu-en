@@ -4,4 +4,4 @@ plugins:
 feed:
   collections:
     changes:
-      path: "/CHANGELOG.md"
+      path: "/CHANGELOG.xml"
