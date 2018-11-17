@@ -2,4 +2,5 @@ theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 feed:
-  path: atom.xml
+  collections:
+    - changes
