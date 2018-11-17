@@ -1,7 +1,4 @@
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
-feed:
-  collections:
-    changes:
-      path: "/CHANGELOG.xml"
+url: https://crownsquad.github.io/karu-en/CHANGELOG.html
