@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
-title: "My aweosome page"
-url: /CHANGELOG
+feed:
+  path: atom.xml
