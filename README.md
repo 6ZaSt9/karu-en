@@ -6,7 +6,7 @@
 
 
 ## Commands
-* All commands with prefix **// or (customizable)**
+* All commands with prefix **//**
 
 |Type|Command|Use |Example|
 |--|--|--|--|
