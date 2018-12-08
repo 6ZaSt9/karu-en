@@ -33,7 +33,6 @@
 |Others|`about`|Give a brief description of Karu.|//about
 |Others|`sug`|Send your suggestions of Karu.|//sug **The bot is great!**
 |Others|`bug`|Report some Karu problem.|//bug **Does not respond to commands.**
-|Others|`prefix`|Changing the prefix|//prefix **///**
 
 ## Let's talk a little bit about the commands
 Unlike **some** people think, Karu can not only use the mentions (because in some cases it is annoying for the person whom we mention). That's why I thought about you as much as the person so they don't have a problem and we add the **ID**.
