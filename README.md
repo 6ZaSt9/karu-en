@@ -10,7 +10,7 @@
 
 |Type|Command|Use |Example|
 |--|--|--|--|
-|General|`short`|Short link with **Bitly** ```Note: Always use with http:// and/or https://```.|//short **https://discordbots.org**
+|General|`short`|Short link with **Bitly** ```Note: Always use with http:// and/or https://```.|//short **https://www.google.com**
 |General|`avatar`|Show profile picture.|//avatar **@BulzyKrown#9999**
 |General |`say`| Send a message through karu.|//say **Hello world**
 |General|`ping`|Check the latency of a message.|//ping
