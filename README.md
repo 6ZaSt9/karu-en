@@ -4,7 +4,8 @@
 # What is karu?
 > a bot with entertainment, link shortener, kill users and more!
 
- <a href="https://discordbots.org/bot/413909677252935680" ><img src="https://discordbots.org/api/widget/413909677252935680.svg" alt="Karu" /></a> <a href="https://botsfordiscord.com/bots/413909677252935680" > <img src="https://botsfordiscord.com/api/bot/413909677252935680/widget" title="Visit Karu listed on Bots for Discord!" alt="Karu's Widget Failed to Load" /></a>
+ <a href="https://discordbots.org/bot/413909677252935680" ><img src="https://discordbots.org/api/widget/413909677252935680.svg" alt="Karu" /></a><a href="https://botsfordiscord.com/bots/413909677252935680"><img src="https://botsfordiscord.com/api/bot/413909677252935680/widget" title="Visit Karu listed on Bots for Discord!" alt="Karu's Widget Failed to Load" /></a>
+ <a href="https://discord.boats/bot/413909677252935680"><img src="https://discord.boats/api/widget/413909677252935680" title="Visit Karu listed on Discord Boats!" alt="Karu's Widget Failed to Load" /></a>
 
 ## Commands
 * All commands with prefix **//**
