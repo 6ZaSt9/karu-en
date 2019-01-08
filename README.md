@@ -2,7 +2,7 @@
 <p style="text-align: center;">English(Current) | <a href="https://crownsquad.github.io/karu-es">Spanish</a></p>
 
 # What is karu?
-> a bot with entertainment, link shortener, kill users and more!
+> Hello!, my name is karu n.n. I am 16 years old and I come to discord to help communities to share unique and fun experiences. I can help you interact with other people, give them hugging, kissing, caring ... Many cute things: 3.
 
  <a href="https://discordbots.org/bot/413909677252935680" > <img src="https://discordbots.org/api/widget/413909677252935680.svg" alt="Karu" /> </a> <a href="https://botsfordiscord.com/bots/413909677252935680"> <img src="https://botsfordiscord.com/api/bot/413909677252935680/widget" title="Visit Karu listed on Bots for Discord!" alt="Karu's Widget Failed to Load" /> </a>
   <a href="https://discord.boats/bot/413909677252935680"> <img src="https://discord.boats/api/widget/413909677252935680" title="Visit Karu listed on Discord Boats!" alt="Karu's Widget Failed to Load" /></a>
